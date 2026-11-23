@@ -1,0 +1,7 @@
+"""Константы проекта."""
+
+MIN_YEAR = 1850
+MAX_YEAR = 2100
+MIN_STOPS = 2
+FORMAT_VERSION = 2
+SUPPORTED_VERSIONS = (1, 2)
